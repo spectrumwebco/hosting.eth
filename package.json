@@ -1,0 +1,21 @@
+{
+  "name": "hosting-eth",
+  "version": "0.1.0",
+  "private": true,
+  "description": "A cloud-native, globally distributed domain registration platform built on web3",
+  "scripts": {
+    "start": "echo 'Start script to be implemented'",
+    "build": "echo 'Build script to be implemented'",
+    "test": "echo 'Test script to be implemented'",
+    "lint": "echo 'Lint script to be implemented'"
+  },
+  "nx": {},
+  "dependencies": {},
+  "devDependencies": {
+    "@nx/workspace": "latest"
+  },
+  "engines": {
+    "node": ">=18.0.0",
+    "bun": ">=1.0.0"
+  }
+}
